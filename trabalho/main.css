@@ -1,7 +1,7 @@
 * {box-sizing: border-box;
 margin: 0;
 padding: 0;
-scrollbar-width:none;
+
 }
 
 img {
@@ -43,7 +43,7 @@ padding-left: 10px;
 
 h3 {
 
-    padding-top: 8px;
+    padding-top: 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -91,8 +91,8 @@ background-image:  linear-gradient(rgba(255, 255, 255, 0.566),rgba(255, 255, 255
 
 h2 {
 
-    padding-bottom: 10px;
-
+    padding-bottom: 25px;
+padding-top: 40px;
 }
 
  a {
@@ -103,6 +103,15 @@ color: rgb(0, 0, 0);
 
 
 }
+
+.logo1{
+
+    width: 100px;
+    padding-bottom: 10px;
+
+
+}
+
 
 
 
